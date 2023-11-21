@@ -132,6 +132,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+new_file.py 
+
+
 # Rope project settings
 .ropeproject
 
